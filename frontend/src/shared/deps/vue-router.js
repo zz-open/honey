@@ -1,0 +1,1 @@
+export { createRouter, createWebHashHistory } from 'vue-router'
